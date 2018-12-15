@@ -44,5 +44,3 @@ function openNewTab(url) {
 function setContainer(element) {
   container = element;
 }
-
-present(URL_PATH);
