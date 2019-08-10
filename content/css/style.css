@@ -12,7 +12,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: navy;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -25,7 +25,7 @@ body {
   display: block;
 }
 
-.sidenav a:hover {
+.sidenav a:hover:not(.dummy) {
   cursor: pointer;
   /* margin:auto; */
   display: block;
