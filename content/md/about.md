@@ -16,4 +16,5 @@ These are my favorite resources from which I make sure to constantly learn and k
 [Chrome Tools](https://developers.google.com/web/tools/) |
 [Javascript Weekly](https://javascriptweekly.com/) |
 [DC9723](https://www.facebook.com/groups/dc9723/) |
-[Javascript Israel](https://www.facebook.com/groups/jsisrael/)
+[Javascript Israel](https://www.facebook.com/groups/jsisrael/) |
+[Superhero JS](http://superherojs.com/)
