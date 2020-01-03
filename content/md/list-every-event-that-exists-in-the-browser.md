@@ -166,7 +166,7 @@ By using [browserstack](https://browserstack.com/)'s great product, I was able t
 That representation can be found right [here](https://weizman.github.io/map-events-website/) and the entire list of events can be found right [here](https://raw.githubusercontent.com/weizman/map-events-website/master/data.json).
 The last time I ran the extraction code was when Chrome 75 was the latest version, so this list might not be completely up to date. Furthermore, this list is in no way exhaustive (it lacks mobile devices for example) and I leave it up to you to send us additional devices and browsers you come across. You are more than welcome to help out with keeping this list up to date!
 
-![events map ui](../img/every-event-ui.jpg)
+![events map ui](./content/img/every-event-ui.jpg)
 
 The project can be found on [github](https://github.com/weizman/map-events) and can be used as an [npm package](https://www.npmjs.com/package/map-events) as well.
 
