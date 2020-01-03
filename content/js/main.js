@@ -39,6 +39,7 @@ function loadMarkDown(file, cb) {
 function present(file) {
   loadMarkDown(file, function(html) {
     container.innerHTML = html;
+    hljs.initHighlighting();
   });
 }
 
