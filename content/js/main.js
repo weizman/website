@@ -27,7 +27,6 @@ function get(url, onload, onerror) {
 
 function loadMarkDown(file, cb) {
   var url = URL_BASE + 'content/md/' + file + '.md';
-  window.history.pushState("", "", file);
   get(url, function(text){
     var html = converter.makeHtml(text);
     cb(html);
