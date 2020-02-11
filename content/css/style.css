@@ -4,6 +4,10 @@ body {
   /*font-weight: bold;*/
 }
 
+img{
+    max-width:600px;
+}
+
 .sidenav {
   text-align: center;
   height: 100%;
