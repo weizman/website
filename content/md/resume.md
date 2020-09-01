@@ -2,20 +2,6 @@
 
 [Email](mailto:weizmangal@gmail.com) | [Github](https://github.com/weizman) | [Facebook](https://www.facebook.com/WeizmanGal) | [Twitter](https://twitter.com/WeizmanGal) | [Medium](https://medium.com/@weizmangal) | [Linkedin](https://www.linkedin.com/in/weizmangal/)
 
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
-
 # Accomplishments
 
 ### [PerimeterX](https://www.perimeterx.com/) - Web Security Researcher And Javascript Expert
@@ -48,16 +34,24 @@ mitigation*
 
 </p></details>
 
-### [Central America](https://goo.gl/maps/A1acoJYEzcfBfcj97) - Volunteering And Living [2018]
+### [Central America](https://goo.gl/maps/A1acoJYEzcfBfcj97) - Volunteering And Living
 
+* In **2018** I have enhanced and gained skills in fields such as: 
+  * English speaking, reading, and writing
+  * Spanish speaking, reading and writing
+  * Teaching English
+
+<details><summary>Click for more...</summary><p>
+ 
 ##### *2018*
 * **Volunteered as a Full Time English Teacher for 6 Months in [Honduras](https://goo.gl/maps/p3fQVrWEZcu1rYaL8)** - Was living in a distant village called [Brisas Del Valle](https://goo.gl/maps/Q26VjaZ47xj6nJQHA) in [San Pedro Sula](https://goo.gl/maps/KyhqQfe2px2nmJjq7) region and volunteering as a school teacher, teaching English, Physical Education, Science, Art and Music to 1st, 7th and 8th grades for over 20 hours a week in the [GSV](https://www.gardenschoolvictoria.com/) volunteering program.
 * **[Recommendation letter](https://weizman.github.io/website/content/pdf/Gal%20Recommendation%20Letter%20-%20Garden%20School%20Victoria.pdf)**
 
-### [Latin America](https://goo.gl/maps/2XwDWPV4QVDFa74p7) - Traveling The World [2017/2018]
+</p></details>
 
-##### *2017/2018*
-* **Traveled through South and Central America for 9 Months** - It Was Awesome.
+### [Latin America](https://goo.gl/maps/2XwDWPV4QVDFa74p7) - Traveling The World
+
+* In **2018** I have traveled through South and Central America for 9 Months!
 
 ### [Uponit](https://uponit.com/) - Web Researcher And Developer (First Employee) [2016/2017]
 
