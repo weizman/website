@@ -36,7 +36,7 @@ document.querySelector('DIV').innerHTML="<iframe src='javascript:var s = documen
 
 **Simple yet very powerful!** Billions of browsers on any OS would have blindly allowed CSP privilege escalation for any unwanted code in a website:
 
-![](https://perimeterx.com/assets-redirect/image/upload/v1597077321/blog/2020/csp-bypass-vuln-disclosure/CVE-2020-6519-DEMO_wrdbcu.gif)
+![5](./content/img/5a.gif)
 
 It is worth mentioning that some sites protected by CSP, like [Twitter](http://twitter.com/), [Github](http://github.com/), [LinkedIn](https://www.linkedin.com/), [Google Play Store](https://play.google.com), [Yahoo's Login Page](https://login.yahoo.com), [PayPal](https://paypal.com) and [Yandex](https://yandex.ru) were not vulnerable to [CVE-2020-6519](https://github.com/PerimeterX/CVE-2020-6519/), as these implemented CSP using [nonce](https://content-security-policy.com/nonce/) or [hash](https://content-security-policy.com/hash/) and by that added a layer of security that is implemented on the server side as well as the client side.
 
@@ -73,15 +73,15 @@ I was easily able to test all of those websites by creating a [simple script](ht
 
 > _Browser and Website are vulnerable_
 
-![](https://perimeterx.com/assets-redirect/image/upload/w_auto:100:700,dpr_auto,f_auto/v1597077321/blog/2020/csp-bypass-vuln-disclosure/2_ztbwoj.jpg)
+![2](./content/img/2a.jpg)
 
 > _Browser is vulnerable but Website is not_
 
-![](https://perimeterx.com/assets-redirect/image/upload/w_auto:100:700,dpr_auto,f_auto/v1597077321/blog/2020/csp-bypass-vuln-disclosure/1_usrdnu.jpg)
+![1](./content/img/1a.jpg)
 
 > _Browser is not vulnerable_
 
-![](https://perimeterx.com/assets-redirect/image/upload/w_auto:100:700,dpr_auto,f_auto/v1597077321/blog/2020/csp-bypass-vuln-disclosure/4_s3qwav.jpg)
+![4](./content/img/4a.jpg)
 
 ### Advice For Website Owners And Users
 
