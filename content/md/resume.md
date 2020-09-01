@@ -2,6 +2,8 @@
 
 [Email](mailto:weizmangal@gmail.com) | [Github](https://github.com/weizman) | [Facebook](https://www.facebook.com/WeizmanGal) | [Twitter](https://twitter.com/WeizmanGal) | [Medium](https://medium.com/@weizmangal) | [Linkedin](https://www.linkedin.com/in/weizmangal/)
 
+> *In case the `Click for more...` buttons don't work, have a look at the [web page version](https://weizman.github.io/website/?resume) instead of the PDF!*
+
 # Accomplishments
 
 ### [PerimeterX](https://www.perimeterx.com/) - Web Security Researcher And Javascript Expert
