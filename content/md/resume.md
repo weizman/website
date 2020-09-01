@@ -18,10 +18,22 @@ print("hello world!")
 
 # Accomplishments
 
-### [PerimeterX](https://www.perimeterx.com/) - Web Security Researcher And Javascript Expert [2018/2020]
+### [PerimeterX](https://www.perimeterx.com/) - Web Security Researcher And Javascript Expert
+
+* In **2018-2020** I have enhanced and gained skills in fields such as: 
+  * Core javascript understanding
+  * Javascript anti debugging research
+  * Defending web applications
+  * Browsers and web applications vulnerbilities research
+  * Bots mitigation
+  * Magecart attacks prevention
+  * Full stack development (NodeJS, MongoDB, Jenkins and more)
+  * Data research (Kibana)
+
+<details><summary>Click for more...</summary><p>
 
 *PerimeterX is a leading company in web applications security and the number one company in the world when it comes to bots 
-mitigation. In PerimeterX I enhanced my abilities as a backend*
+mitigation*
 
 ##### *2020*
 * **Participated in the WhatsApp Bug Bounty Program** - Got **12,500$** for responsibly disclosing to Facebook a set of vulnerabilities found as part of an independent research of their well known **WhatsApp** web and desktop applications which by combining them file read from both Mac and Windows file systems can be achieved, by exploiting zero day **Open Redirect** + **Persistent XSS** + **CSP bypassing** vulnerabilities. **One of the biggest vulnerabilities set found in the past few years.** This was [covered all over the world](https://www.google.com/search?q=gal+weizman+whatsapp&oq=gal+weizman+whatsapp&aqs=chrome.0.69i59j69i60.3086j0j7&sourceid=chrome&ie=UTF-8) ([post](https://weizman.github.io/website/?CVE-2019-18426) | [CVE with 8.2 score](https://nvd.nist.gov/vuln/detail/CVE-2019-18426)). I also made it to Facebook's [Hall of Fame](https://www.facebook.com/whitehat/thanks/).
@@ -33,6 +45,8 @@ mitigation. In PerimeterX I enhanced my abilities as a backend*
 * **Registered a Patent** - Along with a friend and a coworker, as part of our job, we have registered a patent on a unique concept we came up with which is one of the foundations for the web security client side product we have written together from scratch.
 * **Built a Well Selling Web Security Product From Scratch** - Alongside two coworkers and friends, as part of our job, we have built from scratch and maintained the client side of a new innovative web security product which is known today as PerimeterX's [Code Defender](https://www.perimeterx.com/products/code-defender/).
 * **Built an Obfuscator** - As part of our job, I built a Javascript Obfuscator for the product we built in which I implemented interesting Anti Debugging techniques in order to make it harder for attackers to reverse engineer our code.
+
+</p></details>
 
 ### [Central America](https://goo.gl/maps/A1acoJYEzcfBfcj97) - Volunteering And Living [2018]
 
