@@ -22,7 +22,8 @@
 mitigation*
 
 ##### *2020*
-* **Participated in the WhatsApp Bug Bounty Program** - Got **12,500$** for responsibly disclosing to Facebook a set of vulnerabilities found as part of an independent research of their well known **WhatsApp** web and desktop applications which by combining them file read from both Mac and Windows file systems can be achieved, by exploiting zero day **Open Redirect** + **Persistent XSS** + **CSP bypassing** vulnerabilities. **One of the biggest vulnerabilities set found in the past few years.** This was [covered all over the world](https://www.google.com/search?q=gal+weizman+whatsapp&oq=gal+weizman+whatsapp&aqs=chrome.0.69i59j69i60.3086j0j7&sourceid=chrome&ie=UTF-8) ([post](https://weizman.github.io/website/?CVE-2019-18426) | [CVE with 8.2 score](https://nvd.nist.gov/vuln/detail/CVE-2019-18426)). I also made it to Facebook's [Hall of Fame](https://www.facebook.com/whitehat/thanks/).
+* **Participated in the Chromium Bug Bounty Program** - Got **3,000$** for responsibly disclosing to Chromium a full CSP bypass zero day vulnerability as part of an independent research of their well known **Chromium** browser. [Vast coverage](https://www.google.com/search?q=gal+weizmann+csp&oq=gal+weizmann+csp&aqs=chrome..69i57j33.2375j0j7&sourceid=chrome&ie=UTF-8) ([post](https://example.com) | [CVE with 6.5 score](https://nvd.nist.gov/vuln/detail/CVE-2020-6519)).
+* **Participated in the WhatsApp Bug Bounty Program** - Got **12,500$** for responsibly disclosing to Facebook a set of vulnerabilities found as part of an independent research of their well known **WhatsApp** web and desktop applications which by combining them file read from both Mac and Windows file systems can be achieved, by exploiting zero day **Open Redirect** + **Persistent XSS** + **CSP bypassing** vulnerabilities. **One of the biggest vulnerabilities set found in the past few years.** [World wide coverage](https://www.google.com/search?q=gal+weizman+whatsapp&oq=gal+weizman+whatsapp&aqs=chrome.0.69i59j69i60.3086j0j7&sourceid=chrome&ie=UTF-8) ([post](https://weizman.github.io/website/?CVE-2019-18426) | [CVE with 8.2 score](https://nvd.nist.gov/vuln/detail/CVE-2019-18426)). I also made it to Facebook's [Hall of Fame](https://www.facebook.com/whitehat/thanks/).
 
 ##### *2018/2019*
 * **Led Many Main Clientside Javascript Research Projects** - which assisted in promoting the quality of the company's security products (such as identifying Bots behavior, using new web technologies in order to improve our security products and more)
@@ -88,7 +89,7 @@ mitigation*
 
 </p></details>
 
-### [Elite Unit 8200 (7190)](https://en.wikipedia.org/wiki/Unit_8200) (Israeli Intelligence Corps) - Soldier [2012/2015]
+### [Elite Unit 8200 (7190)](https://en.wikipedia.org/wiki/Unit_8200) (Israeli Intelligence Corps) - Soldier
 
 * In **2012-2015** I have enhanced and gained skills in fields such as: 
   * Core javascript understanding
@@ -114,5 +115,12 @@ mitigation*
 
 ### [Amirim High School]() - Student
 
-* In **2012-2015** I have enhanced and gained skills in fields such as: 
+* In **2009-2012** I have enhanced and gained skills in fields such as: 
   * Bagrut Certificate - 10 Units in Computer Science, 5 Units in English and Math
+
+# About Me
+
+I am a hard worker with great personal skills, a lot of motiviation and excellent English. 
+I worked hard to accomplish everything I did,  and will continue to do so.
+
+For job/collaboration opportunities, contact me!
