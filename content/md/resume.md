@@ -13,7 +13,7 @@
   * Browsers and web applications vulnerbilities research
   * Bots mitigation
   * Magecart attacks prevention
-  * Full stack development (NodeJS, MongoDB, Jenkins and more)
+  * Full stack development (bash, git, npm, yarn, mocha, jest, docker, NodeJS, MongoDB, Jenkins and more)
   * Data research (Kibana)
 
 <details><summary>Click for more...</summary><p>
@@ -53,7 +53,18 @@ mitigation*
 
 * In **2018** I have traveled through South and Central America for 9 Months!
 
-### [Uponit](https://uponit.com/) - Web Researcher And Developer (First Employee) [2016/2017]
+### [Uponit](https://uponit.com/) - Web Researcher And Developer (First Employee)
+
+* In **2016-2017** I have enhanced and gained skills in fields such as: 
+  * Core javascript understanding
+  * Browser extensions
+  * Web security
+  * Ads technology
+  * Javascript code reverse engineering, deobfuscation and research
+  * Browsers behaviour and differences
+  * Advanced web technologies
+
+<details><summary>Click for more...</summary><p>
 
 *Uponit was a leading company in the field of ads recovery, their product was one of the best in the world by implementing top notch Cyber security technologies in order to fully bypass Ad blockers extensions, and was founded by former 8200 web security experts*
 
@@ -62,12 +73,35 @@ mitigation*
 * **Gained Experience as a Web Developer and Web Security Researcher** - By working with the best in the field, I learned how to deobfuscate and fully understand the nature of any script that runs in the browser. I learned a big part of the security techniques that are used in the complicated world of the web and gained great knowledge of the ecosystem that exists within a website in the different browsers. 
 * **[Recommendation letter](https://weizman.github.io/website/content/pdf/Gal%20Recommendation%20Letter%20-%20Uponit.pdf)**
 
-### [Elite Unit 8200 (7190)](https://en.wikipedia.org/wiki/Unit_8200) (Israeli Intelligence Corps) - Technological Consultant (Citizen) [2015/2016]
+</p></details>
+
+### [Elite Unit 8200 (7190)](https://en.wikipedia.org/wiki/Unit_8200) (Israeli Intelligence Corps) - Technological Consultant (Citizen)
+
+* In **2015-2016** I have enhanced and gained skills in fields such as: 
+  * Leadership
+  * Projects management
+
+<details><summary>Click for more...</summary><p>
 
 ##### *2015/2016*
 * **Led an Improvement Project for the Former Project** - I led a team of 4 soldiers to rewrite the entire system I built in order to make something even more inclusive and more stable - this was tagged as one of the most important projects in the entire unit at the time.
 
+</p></details>
+
 ### [Elite Unit 8200 (7190)](https://en.wikipedia.org/wiki/Unit_8200) (Israeli Intelligence Corps) - Soldier [2012/2015]
+
+* In **2012-2015** I have enhanced and gained skills in fields such as: 
+  * Core javascript understanding
+  * Web security
+  * Javascript code reverse engineering, deobfuscation and research
+  * Browsers behaviour and differences
+  * Advanced web technologies
+  * Automation development
+  * QA
+  * Offensive Security
+  * Python, Javascript, Php, Networks
+
+<details><summary>Click for more...</summary><p>
 
 ##### *2012/2015*
 * **Solely Development of Complicated Full Stack Offensive Cyber Security System** - which became the core of every general attacking system of many different units under the Israeli Minister of Defense. I Learned PHP and used it to create a full stack system that became the main way to conduct offensive Cyber operations.
@@ -76,7 +110,9 @@ mitigation*
 * **QA of Offensive Cyber Security Products** - Started off as a QA for offensive cyber security products.
 * **Graduated MATAM Course** - In which I learned basic knowledge of cyber security concepts, of the different systems that were developed and used in the unit and how to operate them.
 
-### [Amirim High School]() - Student [2009/2012]
+</p></details>
 
-##### *2009/2012*
-* **Gained a Bagrut Certificate** - 10 Units in Computer Science, 5 Units in English and Math
+### [Amirim High School]() - Student
+
+* In **2012-2015** I have enhanced and gained skills in fields such as: 
+  * Bagrut Certificate - 10 Units in Computer Science, 5 Units in English and Math
