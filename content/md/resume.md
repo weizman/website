@@ -6,7 +6,7 @@
 
 ### [PerimeterX](https://www.perimeterx.com/) - Web Security Researcher And Javascript Expert
 
-* In **2018-2020** I have enhanced and gained skills in fields such as: 
+* Skills and Accomplishments gained and enhanced in **2018-2020**: 
   * Core javascript understanding
   * Javascript anti debugging research
   * Defending web applications
@@ -37,7 +37,7 @@ mitigation*
 
 ### [Central America](https://goo.gl/maps/A1acoJYEzcfBfcj97) - Volunteering And Living
 
-* In **2018** I have enhanced and gained skills in fields such as: 
+* Skills and Accomplishments gained and enhanced in **2018**:
   * English speaking, reading, and writing
   * Spanish speaking, reading and writing
   * Teaching English
@@ -56,7 +56,7 @@ mitigation*
 
 ### [Uponit](https://uponit.com/) - Web Researcher And Developer (First Employee)
 
-* In **2016-2017** I have enhanced and gained skills in fields such as: 
+* Skills and Accomplishments gained and enhanced in **2016-2017**:
   * Core javascript understanding
   * Browser extensions
   * Web security
@@ -78,7 +78,7 @@ mitigation*
 
 ### [Elite Unit 8200 (7190)](https://en.wikipedia.org/wiki/Unit_8200) (Israeli Intelligence Corps) - Technological Consultant (Citizen)
 
-* In **2015-2016** I have enhanced and gained skills in fields such as: 
+* Skills and Accomplishments gained and enhanced in **2015-2016**:
   * Leadership
   * Projects management
 
@@ -91,7 +91,7 @@ mitigation*
 
 ### [Elite Unit 8200 (7190)](https://en.wikipedia.org/wiki/Unit_8200) (Israeli Intelligence Corps) - Soldier
 
-* In **2012-2015** I have enhanced and gained skills in fields such as: 
+* Skills and Accomplishments gained and enhanced in **2012-2015**:
   * Core javascript understanding
   * Web security
   * Javascript code reverse engineering, deobfuscation and research
@@ -115,7 +115,7 @@ mitigation*
 
 ### [Amirim High School]() - Student
 
-* In **2009-2012** I have enhanced and gained skills in fields such as: 
+* Skills and Accomplishments gained and enhanced in **2009-2012**:
   * Bagrut Certificate - 10 Units in Computer Science, 5 Units in English and Math
 
 # About Me
